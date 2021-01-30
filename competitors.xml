@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Competitors>
+    <competitor>Competitor{name='John Smith', result100m=12.61, resultLongJump=5.0, resultShotPut=9.22, resultHighJump=1.5, result400m=60.39, result110H=16.43, resultDiscus=21.6, resultPoleVault=2.6, resultJavelin=35.81, result1500mInS=325.72, totalPoints=4200, place='1'}</competitor>
+    <competitor>Competitor{name='Jaan Lepp', result100m=13.75, resultLongJump=4.84, resultShotPut=10.12, resultHighJump=1.5, result400m=68.44, result110H=19.18, resultDiscus=30.85, resultPoleVault=2.8, resultJavelin=33.88, result1500mInS=382.75, totalPoints=3494, place='2'}</competitor>
+    <competitor>Competitor{name='Jane Doe', result100m=13.04, resultLongJump=4.53, resultShotPut=7.79, resultHighJump=1.55, result400m=64.72, result110H=18.74, resultDiscus=24.2, resultPoleVault=2.4, resultJavelin=28.2, result1500mInS=410.76, totalPoints=3199, place='3'}</competitor>
+    <competitor>Competitor{name='Foo Bar', result100m=13.43, resultLongJump=4.35, resultShotPut=8.64, resultHighJump=1.5, result400m=66.06, result110H=19.05, resultDiscus=24.89, resultPoleVault=2.2, resultJavelin=33.48, result1500mInS=411.01, totalPoints=3099, place='4'}</competitor>
+</Competitors>
